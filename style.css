@@ -1,0 +1,82 @@
+body {
+    /* background-color: #630863; */
+    color: white;
+    /* font-family: 'Roboto Slab', serif; */
+    background-image: url("background.jpg");
+}
+
+#topbarbackgroundsmall, #topbarbackgroundsmall2, #topbarbackgroundsmall3, #topbarbackground, #topbarbackground2, #topbarbackground3,
+#indexSmall, #aboutmeSmall, #contactSmall {
+    background-color: black;
+    /* opacity: 1; */
+}
+
+#sitetitle {
+    padding: 0;
+}
+  
+.topbarmenu {
+    background: black;
+}
+
+a {
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover {
+    color: lightblue;
+}
+a:active {
+    /* background: purple; */
+    color: white;
+}
+
+#portfolioSmall {
+    padding: 0;
+}
+
+#vmSmall {
+    border: 0;
+    /* opacity: 0.5; */
+}
+
+.card, .card-section, .card-divider {
+    background-color: #590959;
+    color: white;
+}
+
+.card {
+    border-radius: 15px;
+    border: black;
+}
+
+#togatherIMG, #livelyIMG {
+    max-width: 400px;
+    height: auto;
+    border-radius: 15px;
+}
+
+#togatherIMGmedium, #livelyIMGmedium {
+    max-width: 400px;
+    height: auto;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#togatherIMGsmall, #livelyIMGsmall {
+    max-width: 80%;
+    height: auto;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#livelyIMG {
+    float: right;
+}
