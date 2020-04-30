@@ -80,3 +80,22 @@ a:active {
 #livelyIMG {
     float: right;
 }
+
+.top-bar {
+    position: fixed;
+    width: 100%;
+}
+
+footer {
+    display: block;
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    /* opacity: 0.5; */
+    padding: 10px;
+    font-weight: bold;
+}
