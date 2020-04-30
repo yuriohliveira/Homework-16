@@ -54,7 +54,7 @@ a:active {
 
 #togatherIMG, #livelyIMG {
     max-width: 400px;
-    height: auto;
+    height: 220px;
     border-radius: 15px;
 }
 
@@ -108,3 +108,13 @@ a:active {
     width: 100%;
     height: 2.5rem;            /* Footer height */
 }
+
+.githublink {
+    background: darkblue;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+/* .card {
+    background: pink;
+} */
